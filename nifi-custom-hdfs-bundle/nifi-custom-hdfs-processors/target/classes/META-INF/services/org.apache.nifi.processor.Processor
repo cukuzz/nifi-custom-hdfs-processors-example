@@ -1,0 +1,3 @@
+sep.nifi.custom.processors.ReadHDFS
+sep.nifi.custom.processors.WriteHDFS
+sep.nifi.custom.processors.SearchHDFS

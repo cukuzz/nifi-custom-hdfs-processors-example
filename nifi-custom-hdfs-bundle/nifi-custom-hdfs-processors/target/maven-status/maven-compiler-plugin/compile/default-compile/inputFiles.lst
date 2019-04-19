@@ -1,0 +1,5 @@
+/home/jy/project/dep-nifi-controller/nifi-custom-bundles/nifi-custom-hdfs-bundle/nifi-custom-hdfs-processors/src/main/java/sep/nifi/custom/processors/SearchHDFS.java
+/home/jy/project/dep-nifi-controller/nifi-custom-bundles/nifi-custom-hdfs-bundle/nifi-custom-hdfs-processors/src/main/java/sep/nifi/custom/processors/ReadHDFS.java
+/home/jy/project/dep-nifi-controller/nifi-custom-bundles/nifi-custom-hdfs-bundle/nifi-custom-hdfs-processors/src/main/java/sep/nifi/custom/processors/WriteHDFS.java
+/home/jy/project/dep-nifi-controller/nifi-custom-bundles/nifi-custom-hdfs-bundle/nifi-custom-hdfs-processors/src/main/java/sep/nifi/custom/processor/utils/KerberosCustomProperties.java
+/home/jy/project/dep-nifi-controller/nifi-custom-bundles/nifi-custom-hdfs-bundle/nifi-custom-hdfs-processors/src/main/java/sep/nifi/custom/processor/utils/AbstractHadoopCustomProcessor.java

@@ -1,0 +1,13 @@
+sep/nifi/custom/processor/utils/AbstractHadoopCustomProcessor$ValidationResources.class
+sep/nifi/custom/processors/SearchHDFS.class
+sep/nifi/custom/processors/WriteHDFS$1.class
+sep/nifi/custom/processor/utils/AbstractHadoopCustomProcessor$HdfsResources.class
+sep/nifi/custom/processors/WriteHDFS.class
+sep/nifi/custom/processor/utils/AbstractHadoopCustomProcessor.class
+sep/nifi/custom/processor/utils/KerberosCustomProperties$1.class
+sep/nifi/custom/processor/utils/AbstractHadoopCustomProcessor$1.class
+sep/nifi/custom/processor/utils/KerberosCustomProperties.class
+sep/nifi/custom/processors/ReadHDFS.class
+sep/nifi/custom/processor/utils/AbstractHadoopCustomProcessor$ExtendedConfiguration.class
+sep/nifi/custom/processors/SearchHDFS$1.class
+sep/nifi/custom/processors/WriteHDFS$1$1.class
